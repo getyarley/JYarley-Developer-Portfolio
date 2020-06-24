@@ -12,6 +12,7 @@ Foster allows users to create and customize wish lists for special occasions suc
 
 ##### Technologies: SwiftUI, Firebase
 
+##### Platform: iOS
 
 
 ## NY Times API Reader
@@ -23,6 +24,8 @@ Foster allows users to create and customize wish lists for special occasions suc
 This project uses the free NY Times API to read JSON files and display them in a simple format on your iOS device. The user has the ability to view the title, date, and abstract for several articles. Loaded articles can be filtered based on several categories (Most Viewed, Most Shared, Most Emailed) and recent time periods (Last 24 Hours, Last 3 Days, Last 30 Days). Articles can be bookmarked and are saved automatically in UserDefaults. Bookmarked articles are reloaded on launch and are available to the user. 
 
 ##### Technologies: Swift, UIKit, UserDefaults, JSON Encoding/Decoding
+
+##### Platform: iOS
 
 _Disclaimer: This is NOT meant for production, and could possibly provoke legal action from the NY Times if you attempt to make a profit off of the data provided by their free API. Let's not take advantage of companies like the NY Times for giving us wonderful free API's like this._
 
