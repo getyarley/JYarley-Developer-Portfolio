@@ -18,7 +18,7 @@ Foster allows users to create and customize wish lists for special occasions suc
 
 [NY Times API Reader](https://github.com/getyarley/NYT-API-Reader) is an open source iOS app built with Swift, UIKit, and UserDefaults and can be viewed on GitHub.
 
-![](https://github.com/getyarley/getyarley-images/blob/master/NYT-Reader_ex.GIF?raw=true)
+![alt text](https://github.com/getyarley/getyarley-images/blob/master/NYT-Summarized.png?raw=true)
 
 This project uses the free NY Times API to read JSON files and display them in a simple format on your iOS device. The user has the ability to view the title, date, and abstract for several articles. Loaded articles can be filtered based on several categories (Most Viewed, Most Shared, Most Emailed) and recent time periods (Last 24 Hours, Last 3 Days, Last 30 Days). Articles can be bookmarked and are saved automatically in UserDefaults. Bookmarked articles are reloaded on launch and are available to the user. 
 
