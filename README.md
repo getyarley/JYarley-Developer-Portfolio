@@ -4,7 +4,7 @@
 
 [Foster](https://apps.apple.com/us/app/id1515152448) is an iOS app currently available on the Apple App Store built with SwiftUI with Firebase as the backend service.
 
-![alt text](https://github.com/getyarley/JYarley-Developer-Portfolio/blob/master/Github-Collaborated.png?raw=true)
+![alt text](https://github.com/getyarley/getyarley-images/blob/master/Github-Collaborated.png?raw=true)
 
 #### Description
 
