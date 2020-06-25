@@ -10,7 +10,7 @@
 
 Foster allows users to create and customize wish lists for special occasions such as birthdays, holidays, barbecues, and much more. Gifts can be added to the list and customized to include a website link and other details specific to the user (shoe size, color, amount, etc.). Wish lists can be shared with friends and family through text, email, twitter, and more. When a gift is purchased, the purchaser simply marks that gift as purchased so that nobody else purchases the same gift.
 
-##### Technologies: SwiftUI, Firebase
+##### Technologies: SwiftUI, Combine, Firebase
 
 ##### Platform: iOS
 
