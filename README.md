@@ -1,5 +1,15 @@
 # Jeremy Yarley
 
+#### About Me
+I'm an Aerospace engineer by degree, a mechanical engineer by practice, and an aspiring iOS developer by night. See some of the projects I've done listed below, the first of which is available on the Apple App Store for free. 
+
+##### Location: Connecticut, USA 🇺🇸
+
+##### Primary Language: Swift (UIKit and SwiftUI)
+
+##### Secondary Languages: Python, Perl, VBA, Matlab, Fortran
+
+
 ## Foster
 
 [Foster](https://apps.apple.com/us/app/id1515152448) is an iOS app currently available on the Apple App Store built with SwiftUI with Firebase as the backend service.
