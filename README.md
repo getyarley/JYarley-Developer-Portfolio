@@ -32,5 +32,14 @@ _Disclaimer: This is NOT meant for production, and could possibly provoke legal 
 
 ## SwiftUI Music Player
 
-[SwiftUI Music Player](https://github.com/getyarley/SwiftUI-Music-Player)
+[SwiftUI Music Player](https://github.com/getyarley/SwiftUI-Music-Player) is an open source iOS app built with SwiftUI that uses AVAudioPlayer to play music locally.
+
+![alt text](https://github.com/getyarley/getyarley-images/blob/master/Music-Player_Collaborated.png?raw=true)
+
+This is an app I built to practice SwiftUI, combine (reactive programming), and AVAudioPlayer. The user can select songs preloaded into this app (not very useful for a released app) and play them with some basic controls such as play, pause, skip forward/backward 15 seconds, and restart. The user can also favorite songs and the view automatically updates to reflect the change.
+
+##### Technologies: SwiftUI, AVAudioPlayer, reactive programming (Combine)
+
+##### Platform: iOS
+
 
