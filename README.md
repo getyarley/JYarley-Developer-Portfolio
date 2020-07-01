@@ -29,3 +29,8 @@ This project uses the free NY Times API to read JSON files and display them in a
 
 _Disclaimer: This is NOT meant for production, and could possibly provoke legal action from the NY Times if you attempt to make a profit off of the data provided by their free API. Let's not take advantage of companies like the NY Times for giving us wonderful free API's like this._
 
+
+## SwiftUI Music Player
+
+[SwiftUI Music Player](https://github.com/getyarley/SwiftUI-Music-Player)
+
