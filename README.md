@@ -28,7 +28,9 @@ Foster allows users to create and customize wish lists for special occasions suc
 ## COVID Chart
 COVID Chart is an app built with SwiftUI that shows recent COVID-19 rates for the United States. This project includes a Widget to display the user's most recent selection right on the homescreen! 
 
-
+<p align="center">
+  <img src ="https://github.com/getyarley/getyarley-images/blob/master/COVID-Chart-Collaborated-Dark.png?raw=true"/>
+</p>
 
 The user selects a region and a search criteria, the appropriate JSON data is loaded from The COVID Project API, and the graph automatically and seamlessly updates to display the most recent trends. Search criteria is saved locally with UserDefaults, which is then reused at launch to load relevent data for each specific user, as well as keep the Widget up to date. 
 
