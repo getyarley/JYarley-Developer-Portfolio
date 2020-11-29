@@ -25,7 +25,7 @@ Foster allows users to create and customize wish lists for special occasions suc
 
 
 ## COVID Chart
-[COVID Chart](https://github.com/getyarley/COVID-Tracker) is an iOS app built with SwiftUI that shows recent informatin about COVID-19 for the United States. This project includes a Widget to display the user's most recent selection right on the homescreen! 
+[COVID Chart](https://github.com/getyarley/COVID-Tracker) is an iOS app built with SwiftUI that shows recent information about COVID-19 for the United States. This project includes a Widget to display the user's most recent selection right on the homescreen! 
 
 _COVID Chart was submitted to the Apple App Store but was rejected because it is not affiliated with a legal healthcare organization. Submitting an appeal did not change the outcome. Unless you happen to be a reputable healthcare corporation, I wouldn't recommend submitting a similar app to the app store._ 
 
