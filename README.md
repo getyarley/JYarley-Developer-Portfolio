@@ -1,11 +1,27 @@
 # Jeremy Yarley
 
 #### About Me
-I'm an Aerospace engineer by degree, a mechanical engineer by practice, and an iOS developer by night. See some of the projects I've done listed below, the first of which is available on the Apple App Store for free. 
+I'm an Aerospace engineer by degree, a mechanical engineer by practice, and an iOS developer by night. See some of the projects I've completed below, the first two are available on the Apple App Store for free. 
 
 ##### Location: Connecticut, USA 🇺🇸
 ##### Primary Language: Swift (UIKit and SwiftUI)
 ##### Secondary Languages: Javascript (In Progress), Python, Perl, VBA, Matlab, Fortran
+
+
+## GridPlan
+
+[GridPlan](https://apps.apple.com/app/id1550443458) is a minimal calendar app with beautiful animations and a unique aesthetic, currently available on the Apple App Store.
+
+<p align="center">
+  <img src ="https://github.com/getyarley/getyarley-images/blob/master/GridPlan-Collaborated.png?raw=true"/>
+</p>
+
+#### Description
+
+GridPlan is a minimalistic calendar app that allows the user to add, edit, and delete important events. Each event has a title, start and end times, start and end dates, a personalized color option, and a location. GridPlan uses Apple's MapKit API to search for an address or location to be included with the event. All data is saved on Apple's CloudKit API in the user's private database, so there are no concerns about data privacy whatsoever. GridPlan leverages MatchedGeometryEffect to create beautiful animations when presenting days and events. 
+
+##### Technologies: SwiftUI, CloudKit, MapKit, MatchedGeometryEffect
+
 
 
 ## Foster
@@ -21,7 +37,7 @@ I'm an Aerospace engineer by degree, a mechanical engineer by practice, and an i
 
 Foster allows users to create and customize wish lists for special occasions such as birthdays, holidays, barbecues, and much more. Gifts can be added to the list and customized to include a website link and other details specific to the user (shoe size, color, amount, etc.). Wish lists can be shared with friends and family through text, email, twitter, and more. When a gift is purchased, the purchaser simply marks that gift as purchased so that nobody else purchases the same gift.
 
-##### Technologies: SwiftUI, Firebase
+##### Technologies: SwiftUI, Firebase API, Universal Links
 
 
 ## COVID Chart
