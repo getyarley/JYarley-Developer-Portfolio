@@ -18,7 +18,7 @@ I'm an Aerospace engineer by degree, a mechanical engineer by practice, and an i
 
 #### Description
 
-GridPlan is a minimalistic calendar app that allows the user to add, edit, and delete important events. Each event has a title, start and end times, start and end dates, a personalized color option, and a location. GridPlan uses Apple's MapKit API to search for an address or location to be included with the event. All data is saved on Apple's CloudKit API in the user's private database, so there are no concerns about data privacy whatsoever. GridPlan leverages MatchedGeometryEffect to create beautiful animations when presenting days and events. 
+GridPlan is a minimalistic calendar app that allows the user to add, edit, and delete important events. Each event has a title, start/end times, start/end dates, a personalized color option, and a location. GridPlan uses Apple's MapKit API to search for an address or location to be included with the event. All data is saved on Apple's CloudKit API in the user's private database, so there are no concerns about data privacy whatsoever. GridPlan leverages MatchedGeometryEffect to create beautiful animations when presenting days and events. 
 
 ##### Technologies: SwiftUI, CloudKit, MapKit, MatchedGeometryEffect
 
