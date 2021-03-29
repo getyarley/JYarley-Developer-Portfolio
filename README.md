@@ -1,14 +1,33 @@
 # Jeremy Yarley
 
-#### About Me
-I'm an Aerospace engineer by degree, a mechanical engineer by practice, and an iOS developer by night. See some of the projects I've completed below, the first two are available on the Apple App Store for free. 
-
 ##### Location: Connecticut, USA 🇺🇸
 ##### Primary Language: Swift (UIKit and SwiftUI)
-##### Secondary Languages: Javascript (In Progress), Python, Perl, VBA, Matlab, Fortran
+##### Secondary Languages: Python, Perl, VBA, Matlab, Fortran
+
+### About Me
+I'm an aerospace engineer by degree, an electro-mechanical engineer by practice, and an iOS developer by night. During the day I try to figure out why a pump or motor on an airplane or helicopter isn't working correctly, and then I come home to figure out why one of my app's animations are broken. I've curated some of my projects below, and hinted at some of the other projects I can't go into vast detail about. I hope you enjoy! 
+
+If you want to see what I'm working on now, follow me on Twitter: @JeremyYarley
 
 
-## GridPlan
+## Capstone Senior Design Project
+The purpose of the project was to design, contstruct, test, and fly a seagliding aircraft for the Naval Research Lab. It had to be able to rocket launch from a rail, transition to powered flight for 15 miles, land in the water, submerge, and seaglide to a depth of 100 meters and resurface. My personal responsibility on the team was propulsion, so I was in charge of choosing the motor, integrating it with the aircraft system, and performing a wind tunnel test to validate it would work and determine range capabilities. If the picture below didn't give a hint, it was a success! 
+
+<p align="center">
+  <img src ="https://github.com/getyarley/getyarley-images/blob/master/786D3AF4-D4B9-457B-BA80-2ACC6A12A63B.jpeg?raw=true"/>
+</p>
+(Fair disclosure, that's not me, it's my teammate) 
+
+
+## Professional Projects
+Unfortunately I shouldn't go into a lot of detail here since all of my professional projects are either military aircraft or proprietary. The big thing is that I can't take or share any pictures, which takes most of the fun out of it. 
+
+That being said, I started performing structural analysis work for Pratt & Whitney engines that go on various aircraft (including a few neat fighter jets) using a very expensive software called ANSYS Classic. After a brief detour of climbing cell phone towers I transitioned to the world of fuel pumps, primarily for small aircraft and helicopters. My role here was to fix problems that would come up in the field or the manufacturing process. My horizons expanded further by supporting another product line that makes hydraulic vane motors for the G500 and G600 (like in the rap song), which is a complex combination of hydraulics, mechanics, and electronics. 
+
+
+## iOS Development
+
+### GridPlan
 
 [GridPlan](https://apps.apple.com/app/id1550443458) is a minimal calendar app with beautiful animations and a unique aesthetic, currently available on the Apple App Store.
 
@@ -24,7 +43,7 @@ GridPlan is a minimalistic calendar app that allows the user to add, edit, and d
 
 
 
-## Foster
+### Foster
 
 [Foster](https://apps.apple.com/us/app/id1515152448) is an iOS app currently available on the Apple App Store built with SwiftUI with Firebase as the backend service.
 
@@ -40,7 +59,7 @@ Foster allows users to create and customize wish lists for special occasions suc
 ##### Technologies: SwiftUI, Firebase API, Universal Links
 
 
-## COVID Chart
+### COVID Chart
 [COVID Chart](https://github.com/getyarley/COVID-Tracker) is an iOS app built with SwiftUI that shows recent information about COVID-19 for the United States. This project includes a Widget to display the user's most recent selection right on the homescreen! 
 
 _COVID Chart was submitted to the Apple App Store but was rejected because it is not affiliated with a legal healthcare organization. Submitting an appeal did not change the outcome. Unless you happen to be a reputable healthcare corporation, I wouldn't recommend submitting a similar app to the app store._ 
@@ -57,7 +76,7 @@ The data for this app was provided by The COVID Tracking Project, a volunteer or
 ##### Technologies: WidgetKit, SwiftUI, UserDefaults, JSON Encoding/Decoding
 
 
-## NY Times API Reader
+### NY Times API Reader
 
 [NY Times API Reader](https://github.com/getyarley/NYT-API-Reader) is an open source iOS app built with Swift, UIKit, and UserDefaults and can be viewed on GitHub.
 
@@ -73,7 +92,7 @@ _Disclaimer: This is NOT meant for production, and could possibly provoke legal 
 
 
 
-## SwiftUI Music Player
+### SwiftUI Music Player
 
 [SwiftUI Music Player](https://github.com/getyarley/SwiftUI-Music-Player) is an open source iOS app built with SwiftUI that uses AVAudioPlayer to play music locally.
 
